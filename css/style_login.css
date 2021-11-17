@@ -1,0 +1,16 @@
+div.content{
+    margin-top: 1rem;
+   
+   
+}
+div.row{
+    justify-content: center;
+
+}
+form{
+    padding: 0.5rem;
+}
+div.form-row{
+    padding: 1rem 1.5rem 1rem;
+   
+}

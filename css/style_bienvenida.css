@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&display=swap');
+div.slime-item01{
+    
+    background: radial-gradient(50% 50% at 50% 50%, rgba(119, 201, 212, 0.66) 0%, rgba(119, 201, 212, 0) 100%), url(../Img/maestro.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+div.slime-item02{
+    background:  conic-gradient(from 180deg at 50% 50%, rgba(236, 218, 239, 0) 0deg, #ECDAEF 218.17deg, rgba(236, 218, 239, 0) 360deg), url(../Img/mis.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+div.carousel-slider{
+    height: 600px;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+div.container{
+    width: 80%;       
+}
+div.card{
+    border-radius: 0.6rem;
+}
+div.card-action > a{
+    color: #231f20;
+}
+span.card-title{
+    font-family: 'Roboto Slab', serif;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+}
