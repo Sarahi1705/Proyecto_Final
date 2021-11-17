@@ -1,5 +1,5 @@
 <!-- Estilos en CSS -->
-<link rel="stylesheet" href="css/style_codigo.css">
+<link rel="stylesheet" href="css/style_error.css">
 
 <!-- Contenido de la pagina principal -->
 <div class="row | header">

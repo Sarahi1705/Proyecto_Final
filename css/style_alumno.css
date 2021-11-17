@@ -1,0 +1,16 @@
+body{
+    background: radial-gradient(50% 50% at 50% 50%, rgba(119, 201, 212, 0.66) 0%, rgba(119, 201, 212, 0) 100%), url(../Img/carlosR.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+table{
+    
+    padding:30px;
+    margin:0 auto;
+    }
+.btn-floating{
+    
+    margin-top: 2rem;
+    margin-block-end: 1.5rem;
+    
+}

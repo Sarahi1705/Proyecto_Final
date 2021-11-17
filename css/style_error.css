@@ -1,0 +1,5 @@
+div.header {
+    background: url(../Img/error.png) no-repeat center center fixed;
+    background-size: cover;
+    height: 600px;
+ }

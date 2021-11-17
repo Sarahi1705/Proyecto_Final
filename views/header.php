@@ -15,7 +15,7 @@ if (isset($_SESSION['loggedUserName'])) {
 <div class="navbar-fixed">
     <nav>
         <div class="nav-wrapper">
-            <a href="?menu=home" class="brand-logo white-text"><i class="material-icons">audiotrack</i>El arte de enseñar musica Mexicana</a>
+            <a href="?menu=bienvenido" class="brand-logo white-text"><i class="material-icons">audiotrack</i>El arte de enseñar musica Mexicana</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 
                 <li><a href="?menu=acercade" >Acerca de:</a></li>
@@ -38,9 +38,9 @@ if (isset($_SESSION['loggedUserName'])) {
             <ul id="nav-mobile" class="left thide-on-med-and-down">
                 <li><a href="?menu=home">Inicio</a></li>
 
-                <li><a href="?menu=bienvenida">Quienes somos</a></li>
+                <li><a href="?menu=bienvenida">¿Quienes somos?</a></li>
                 <li><a href="?menu=login">Iniciar sesión</a></li>
-                <li><a href="?menu=registrarse">Registrarse</a></li>
+               
                 <!-- <li><a href="?menu=usuario">Usuario</a></li>-->
 
 

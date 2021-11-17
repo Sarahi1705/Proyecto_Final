@@ -17,11 +17,8 @@ switch ($var_getMenu) {
     case "login":
         require_once('./views/login.php');
         break;
-    case "registrarse":
-        require_once('./views/Registrarse.php');
-        break;
-   
-    case "alumnos":
+  
+     case "alumnos":
                     include_once './model/Alumnos.php';
                     $sqlAlumnos = alumnos::consultar();
                     include_once './views/viewAlumnos.php';
