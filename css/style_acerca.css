@@ -1,0 +1,20 @@
+body{
+    background: radial-gradient(50% 50% at 50% 50%, rgba(119, 201, 212, 0.66) 0%, rgba(119, 201, 212, 0) 100%), url(../Img/Tini.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+div.container{
+    width: 80%;   
+    margin-top: 4rem;  
+    
+}
+div.card{
+    border-radius: 0.6rem;  
+}
+div.card-action > a{
+    color: #231f20;
+}
+span.card-title{
+    font-family: 'Roboto Slab', serif;
+}
